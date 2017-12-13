@@ -15,7 +15,9 @@ git status   # 查看当前仓库的状态
 会出现：modified:   readme.txt 
 git diff readme.txt  # 告诉我们哪里改变了
 
-
+################################################################################
+git log  # 查看之前修改过几次记录
+git log --pretty==oneline # 减少输出的东西，更明确
 
 
 
